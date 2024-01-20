@@ -21,5 +21,10 @@ for (int i = 2; i <= 10; i += 2)
 double[] myNumbers = { 1, 4, 3.5, 47 };
 string[] studNamesAgr = new string[4] { "Rati", "Mariami", "Gaga","Nika"};
 string[] studNamesAgr2 = new string[] { "Rati", "Mariami", "Gaga","Nika"};
+
 double[] studentsAge = new double[9];
 
+studentsAge[2] = 11;
+studentsAge[4] = 14;
+studentsAge[1] = 13;
+studentsAge[3] = 14;
